@@ -10,18 +10,18 @@ Welcome to my GitHub! I'm a U.S. Air Force member and recent graduate passionate
 
 ---
 
-## 🔍 About Me
+## About Me
 
 - Passionate about building from scratch to deeply understand how systems work  
-- 🎓 Capstone: Desktop mission planning app (C# + WPF) for military operations  
-- 📱 Android blood glucose monitoring app (Kotlin)  
-- 🖼️ Cross-platform image converter utility for iPhone  
-- 🔒 Secret security clearance | 10+ years in aviation operations  
-- 🎯 Seeking **remote**, entry-level roles in **software engineering**, **cloud development**, or **AI tooling**
+- Capstone: Desktop mission planning app (C# + WPF) for military operations  
+- Android blood glucose monitoring app (Kotlin)  
+- Cross-platform image converter utility for iPhone  
+- Secret security clearance | 10+ years in aviation operations  
+- Seeking **remote**, entry-level roles in **software engineering**, **cloud development**, or **AI tooling**
 
 ---
 
-## 💻 Skills & Technologies
+## Skills & Technologies
 
 **Languages & Frameworks:**  
 `Python` • `C#` • `C` • `C++` • `Kotlin` • `JavaScript` • `HTML5` • `CSS` • `AJAX` • `SQL` • `Bash` • `R`
@@ -76,14 +76,14 @@ Welcome to my GitHub! I'm a U.S. Air Force member and recent graduate passionate
 ## 🚀 Projects Coming Soon
 
 - **RemoteHQ v2** – Enhanced mission planning desktop app (WPF) with real-time data integrations  
-- **AI + Cloud Lab Series** – Documenting my cloud infrastructure and AI tooling journey
+- 
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 **Email:** louisbobbybob8@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/luis-granado-12069432b](https://www.linkedin.com/in/luis-granado-12069432b)  
+- 💼 **LinkedIn:** (http://www.linkedin.com/in/luis-a-granado)
 - 📍 **Location:** Tucson, AZ | Seeking **remote opportunities**  
 - 📣 **Status:** Actively Job-Seeking – *Early Career Software Engineering Roles*
 
