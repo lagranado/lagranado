@@ -83,7 +83,7 @@ Welcome to my GitHub! I'm a U.S. Air Force member and recent graduate passionate
 ## 📬 Let's Connect
 
 - 📧 **Email:** louisbobbybob8@gmail.com  
-- 💼 **LinkedIn:** (http://www.linkedin.com/in/luis-a-granado)
+- 💼 **LinkedIn:** http://www.linkedin.com/in/luis-a-granado
 - 📍 **Location:** Tucson, AZ | Seeking **remote opportunities**  
 - 📣 **Status:** Actively Job-Seeking – *Early Career Software Engineering Roles*
 
